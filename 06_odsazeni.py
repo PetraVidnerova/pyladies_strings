@@ -7,4 +7,4 @@ def vypis_retezec():
 
 
 vypis_retezec()
-print("Ahoj!")06
+print("Ahoj!")
